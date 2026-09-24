@@ -1,0 +1,60 @@
+🟢bPrincipiante
+	- [] Calculadora orientada a objetos.
+	- [] Agenda de contactos usando std::vector.
+	- [] Biblioteca de libros (agregar, buscar y eliminar).
+	- [] Sistema de inventario.
+	- [] Gestor de estudiantes y calificaciones.
+	- [] Cajero automático (simulado).
+	- [] Juego de adivinar el número.
+	- [] Tres en raya (Tic-Tac-Toe).
+	- [] Sistema de empleados.
+	- [] Conversor de unidades.
+
+🟡 Intermedio
+	- [] Editor de texto para consola.
+	- [] Sistema bancario con múltiples cuentas.
+	- [] Gestor de tareas con prioridades.
+	- [] Agenda con persistencia en archivos.
+	- [] Biblioteca digital.
+	- [] Árbol binario genérico con templates.
+	- [] Caché LRU.
+	- [] Simulador de memoria.
+	- [] Motor de ajedrez básico.
+	- [] Parser de expresiones matemáticas.
+
+🟠 Intermedio-Avanzado
+	- [] Sistema de archivos virtual.
+	- [] Base de datos en memoria.
+	- [] Cliente/servidor TCP.
+	- [] Chat en consola.
+	- [] Shell de comandos.
+	- [] Motor de scripting sencillo.
+	- [] Sistema de plugins.
+	- [] Motor de física 2D.
+	- [] Compresor de archivos.
+	- [] Intérprete de un lenguaje simple.
+
+🔴 Avanzado
+	- [] Motor de videojuegos 2D.
+	- [] Motor ECS (Entity Component System).
+	- [] Compilador de un lenguaje propio.
+	- [] Base de datos tipo SQL.
+	- [] Servidor HTTP multihilo.
+	- [] Motor de renderizado por ray tracing.
+	- [] Sistema de concurrencia con thread pool.
+	- [] Clon simplificado de Git.
+	- [] Sistema de mensajería distribuida.
+	- [] Emulador de una consola clásica.
+
+⚫ Nivel profesional
+	- [] Motor de videojuegos (OpenGL o Vulkan).
+	- [] Navegador web simplificado.
+	- [] Base de datos tipo SQLite.
+	- [] Compilador similar a Clang (a pequeña escala).
+	- [] Motor de inteligencia artificial para juegos.
+	- [] Editor de código.
+	- [] Sistema operativo educativo.
+	- [] Biblioteca propia similar a una STL reducida.
+	- [] Framework de redes asíncronas.
+	- [] Motor de renderizado 3D.
+
