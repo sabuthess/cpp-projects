@@ -1,60 +1,60 @@
 🟢bPrincipiante
-	- [x] Calculadora orientada a objetos.
-	- [x] Agenda de contactos usando std::vector.
-	- [] Biblioteca de libros (agregar, buscar y eliminar).
-	- [] Sistema de inventario.
-	- [] Gestor de estudiantes y calificaciones.
-	- [] Cajero automático (simulado).
-	- [] Juego de adivinar el número.
-	- [] Tres en raya (Tic-Tac-Toe).
-	- [] Sistema de empleados.
-	- [] Conversor de unidades.
+	1 - [x] Calculadora orientada a objetos.
+	2 - [x] Agenda de contactos usando std::vector.
+	3 - [] Biblioteca de libros (agregar, buscar y eliminar).
+	4 - [] Sistema de inventario.
+	5 - [] Gestor de estudiantes y calificaciones.
+	6 - [] Cajero automático (simulado).
+	7 - [] Juego de adivinar el número.
+	8 - [] Tres en raya (Tic-Tac-Toe).
+	9 - [] Sistema de empleados.
+	10 - [] Conversor de unidades.
 
 🟡 Intermedio
-	- [] Editor de texto para consola.
-	- [] Sistema bancario con múltiples cuentas.
-	- [] Gestor de tareas con prioridades.
-	- [] Agenda con persistencia en archivos.
-	- [] Biblioteca digital.
-	- [] Árbol binario genérico con templates.
-	- [] Caché LRU.
-	- [] Simulador de memoria.
-	- [] Motor de ajedrez básico.
-	- [] Parser de expresiones matemáticas.
+	11 - [] Editor de texto para consola.
+	12 - [] Sistema bancario con múltiples cuentas.
+	13 - [] Gestor de tareas con prioridades.
+	14 - [] Agenda con persistencia en archivos.
+	15 - [] Biblioteca digital.
+	16 - [] Árbol binario genérico con templates.
+	17 - [] Caché LRU.
+	18 - [] Simulador de memoria.
+	19 - [] Motor de ajedrez básico.
+	20 - [] Parser de expresiones matemáticas.
 
 🟠 Intermedio-Avanzado
-	- [] Sistema de archivos virtual.
-	- [] Base de datos en memoria.
-	- [] Cliente/servidor TCP.
-	- [] Chat en consola.
-	- [] Shell de comandos.
-	- [] Motor de scripting sencillo.
-	- [] Sistema de plugins.
-	- [] Motor de física 2D.
-	- [] Compresor de archivos.
-	- [] Intérprete de un lenguaje simple.
+	21 - [] Sistema de archivos virtual.
+	22 - [] Base de datos en memoria.
+	23 - [] Cliente/servidor TCP.
+	24 - [] Chat en consola.
+	25 - [] Shell de comandos.
+	26 - [] Motor de scripting sencillo.
+	27 - [] Sistema de plugins.
+	28 - [] Motor de física 2D.
+	29 - [] Compresor de archivos.
+	30 - [] Intérprete de un lenguaje simple.
 
 🔴 Avanzado
-	- [] Motor de videojuegos 2D.
-	- [] Motor ECS (Entity Component System).
-	- [] Compilador de un lenguaje propio.
-	- [] Base de datos tipo SQL.
-	- [] Servidor HTTP multihilo.
-	- [] Motor de renderizado por ray tracing.
-	- [] Sistema de concurrencia con thread pool.
-	- [] Clon simplificado de Git.
-	- [] Sistema de mensajería distribuida.
-	- [] Emulador de una consola clásica.
+	31 - [] Motor de videojuegos 2D.
+	32 - [] Motor ECS (Entity Component System).
+	33 - [] Compilador de un lenguaje propio.
+	34 - [] Base de datos tipo SQL.
+	35 - [] Servidor HTTP multihilo.
+	36 - [] Motor de renderizado por ray tracing.
+	37 - [] Sistema de concurrencia con thread pool.
+	39 - [] Clon simplificado de Git.
+	39 - [] Sistema de mensajería distribuida.
+	40 - [] Emulador de una consola clásica.
 
 ⚫ Nivel profesional
-	- [] Motor de videojuegos (OpenGL o Vulkan).
-	- [] Navegador web simplificado.
-	- [] Base de datos tipo SQLite.
-	- [] Compilador similar a Clang (a pequeña escala).
-	- [] Motor de inteligencia artificial para juegos.
-	- [] Editor de código.
-	- [] Sistema operativo educativo.
-	- [] Biblioteca propia similar a una STL reducida.
-	- [] Framework de redes asíncronas.
-	- [] Motor de renderizado 3D.
+	41 - [] Motor de videojuegos (OpenGL o Vulkan).
+	42 - [] Navegador web simplificado.
+	43 - [] Base de datos tipo SQLite.
+	44 - [] Compilador similar a Clang (a pequeña escala).
+	45 - [] Motor de inteligencia artificial para juegos.
+	46 - [] Editor de código.
+	47 - [] Sistema operativo educativo.
+	48 - [] Biblioteca propia similar a una STL reducida.
+	49 - [] Framework de redes asíncronas.
+	50 - [] Motor de renderizado 3D.
 
