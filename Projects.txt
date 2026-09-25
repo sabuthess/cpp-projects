@@ -1,6 +1,6 @@
 🟢bPrincipiante
 	- [x] Calculadora orientada a objetos.
-	- [] Agenda de contactos usando std::vector.
+	- [x] Agenda de contactos usando std::vector.
 	- [] Biblioteca de libros (agregar, buscar y eliminar).
 	- [] Sistema de inventario.
 	- [] Gestor de estudiantes y calificaciones.
