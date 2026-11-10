@@ -1,0 +1,3 @@
+/home/pepelian/cpp-projects/task-tracker/build/CMakeFiles/task_tracker.dir
+/home/pepelian/cpp-projects/task-tracker/build/CMakeFiles/edit_cache.dir
+/home/pepelian/cpp-projects/task-tracker/build/CMakeFiles/rebuild_cache.dir

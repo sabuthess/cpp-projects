@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/task_tracker.dir/link.d CMakeFiles/task_tracker.dir/src/main.cc.o -o task_tracker

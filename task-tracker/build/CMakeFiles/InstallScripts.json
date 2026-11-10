@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/pepelian/cpp-projects/task-tracker/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

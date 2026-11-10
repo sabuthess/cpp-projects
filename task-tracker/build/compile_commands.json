@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/pepelian/cpp-projects/task-tracker/build",
+  "command": "/usr/bin/c++  -I/home/pepelian/cpp-projects/task-tracker/include -std=c++17 -o CMakeFiles/task_tracker.dir/src/main.cc.o -c /home/pepelian/cpp-projects/task-tracker/src/main.cc",
+  "file": "/home/pepelian/cpp-projects/task-tracker/src/main.cc",
+  "output": "CMakeFiles/task_tracker.dir/src/main.cc.o"
+}
+]
