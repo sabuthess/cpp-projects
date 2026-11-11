@@ -1,1 +1,9 @@
 *.exe
+
+github-user-activity/build
+github-user-activity/cmake-build-*/
+github-user-activity/CMakeCache.txt
+github-user-activity/CMakeFiles/
+github-user-activity/cmake_install.cmake
+github-user-activity/Makefile
+github-user-activity/compile_commands.json
